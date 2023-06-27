@@ -14,10 +14,10 @@
 - 2x2 자른 sub image들의 각 edge들 픽셀 한줄의 RGB채널 각각 평균을 통해 RGB 전체  평균을 통해 구하여 sub image 랜덤으로 기준이 되는 이미지를 정한 후 기준이미지에 따라 다른 이미지들을 mirroring,flipping, 90 degree rotation 진행하여 결합.
   
 
-- 원본 이미지
+- 원본 이미지  
 ![merge](https://github.com/yyeseull/Assignment/blob/main/image_cut_merge/cut_merge_img.jpeg?raw=true) 
   
-- 병합한 이미지 결과 
+- 병합한 이미지 결과   
 ![merge](https://github.com/yyeseull/Assignment/assets/102211628/c4cc802f-c662-49c4-8be7-8fac12831b44)
 
 ## 한계점 
