@@ -29,3 +29,7 @@
 
 ## 해결방안
 - 색만을 이용하여 유사도를 찾다보니 배경사진에 영향을 많이 받으므로 외곽선도 함꼐 비교하여 진행하면 좀 더 오류를 줄여 나 갈 수 있으며, 일반화를 될 수 있도록 개선을 해야함.
+
+## main.sh 입력 방법
+```sh main.sh image_file_name column_num row_num prefix_file_name output_file_name```
+
