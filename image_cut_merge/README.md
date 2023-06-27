@@ -15,7 +15,7 @@
   
 
 - 원본 이미지
-<img src="https://github.com/yyeseull/Assignment/blob/main/image_cut_merge/cut_merge_img.jpeg?raw=true" width="400" height="300"/ >
+<img src="https://github.com/yyeseull/Assignment/blob/main/image_cut_merge/cut_merge_img.jpeg?raw=true" width="200" height="150"/ >
   
 - 병합한 이미지 결과 
 ![merge](https://github.com/yyeseull/Assignment/assets/102211628/c4cc802f-c662-49c4-8be7-8fac12831b44)
