@@ -12,6 +12,5 @@
 
 ## Merge 
 - 2x2 자른후 
-![원본사진](/Users/yeseulseo/Assignment/image_cut_merge/cut_merge_img.jpeg)
+![원본사진](https://github.com/yyeseull/Assignment/blob/main/image_cut_merge/cut_merge_img.jpeg?raw=true)
 
-![합성한사진](/Users/yeseulseo/Assignment/image_cut_merge/스크린샷 .png)
