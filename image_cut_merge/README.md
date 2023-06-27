@@ -15,10 +15,10 @@
   
 
 - 원본 이미지
-![원본사진](https://github.com/yyeseull/Assignment/blob/main/image_cut_merge/cut_merge_img.jpeg?raw=true){: width="200" height="200"}
+<img src="https://github.com/yyeseull/Assignment/blob/main/image_cut_merge/cut_merge_img.jpeg?raw=true" width="400" height="300"/ >
   
 - 병합한 이미지 결과 
-![merge](https://github.com/yyeseull/Assignment/assets/102211628/c4cc802f-c662-49c4-8be7-8fac12831b44){: width="200" height="200"}
+![merge](https://github.com/yyeseull/Assignment/assets/102211628/c4cc802f-c662-49c4-8be7-8fac12831b44)
 
 ## 한계점 
 1. RGB채널을 통해 유사한 부분을 찾는 것을 진행하여서 배경이 한 색으로 통일 된 사진이나, 배경이 대칭되어 있는 사진은 아래사진처럼 자연스럽게 merge가 되지 않는 경우가 있음.
